@@ -1,1 +1,1 @@
-asdasdadaasdasasdadasdasldjlasdjl
+alert("a.js");
